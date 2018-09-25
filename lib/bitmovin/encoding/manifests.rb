@@ -15,6 +15,7 @@ module Bitmovin::Encoding
 end
 
 require 'bitmovin/encoding/manifests/fmp4_representation'
+require 'bitmovin/encoding/manifests/webm_representation'
 require 'bitmovin/encoding/manifests/audio_adaptation_set'
 require 'bitmovin/encoding/manifests/video_adaptation_set'
 require 'bitmovin/encoding/manifests/period'
